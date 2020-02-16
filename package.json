@@ -1,0 +1,17 @@
+{
+  "name": "codewars-answer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/euxn23/codewars-answer.git",
+  "author": "euxn23 <euxn23@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "@types/node": "^13.7.1",
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1",
+    "ts-jest": "^25.2.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
